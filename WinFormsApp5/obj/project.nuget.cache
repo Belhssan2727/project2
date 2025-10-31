@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f25cipjs0iU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\balho\\source\\repos\\WinFormsApp5\\WinFormsApp5\\WinFormsApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\balho\\.nuget\\packages\\microsoft.web.webview2\\1.0.3537.50\\microsoft.web.webview2.1.0.3537.50.nupkg.sha512"
+  ],
+  "logs": []
+}
